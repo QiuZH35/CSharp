@@ -1,0 +1,11 @@
+D:\C#Data\第二节课\bin\Debug\netcoreapp2.1\第二节课.deps.json
+D:\C#Data\第二节课\bin\Debug\netcoreapp2.1\第二节课.runtimeconfig.json
+D:\C#Data\第二节课\bin\Debug\netcoreapp2.1\第二节课.runtimeconfig.dev.json
+D:\C#Data\第二节课\bin\Debug\netcoreapp2.1\第二节课.dll
+D:\C#Data\第二节课\bin\Debug\netcoreapp2.1\第二节课.pdb
+D:\C#Data\第二节课\obj\Debug\netcoreapp2.1\第二节课.csprojAssemblyReference.cache
+D:\C#Data\第二节课\obj\Debug\netcoreapp2.1\第二节课.csproj.CoreCompileInputs.cache
+D:\C#Data\第二节课\obj\Debug\netcoreapp2.1\第二节课.AssemblyInfoInputs.cache
+D:\C#Data\第二节课\obj\Debug\netcoreapp2.1\第二节课.AssemblyInfo.cs
+D:\C#Data\第二节课\obj\Debug\netcoreapp2.1\第二节课.dll
+D:\C#Data\第二节课\obj\Debug\netcoreapp2.1\第二节课.pdb

@@ -1,0 +1,16 @@
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\bin\Debug\netcoreapp3.1\窗口-定时器使用.exe
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\bin\Debug\netcoreapp3.1\窗口-定时器使用.deps.json
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\bin\Debug\netcoreapp3.1\窗口-定时器使用.runtimeconfig.json
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\bin\Debug\netcoreapp3.1\窗口-定时器使用.runtimeconfig.dev.json
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\bin\Debug\netcoreapp3.1\窗口-定时器使用.dll
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\bin\Debug\netcoreapp3.1\窗口-定时器使用.pdb
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.csproj.AssemblyReference.cache
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口_定时器使用.Form1.resources
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.csproj.GenerateResource.cache
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.AssemblyInfoInputs.cache
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.AssemblyInfo.cs
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.csproj.CoreCompileInputs.cache
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.dll
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.pdb
+D:\C#Data\窗口-定时器使用\窗口-定时器使用\obj\Debug\netcoreapp3.1\窗口-定时器使用.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#Data\窗口编程3\窗口编程3\bin\Debug\netcoreapp3.1\窗口编程3.exe
+D:\C#Data\窗口编程3\窗口编程3\bin\Debug\netcoreapp3.1\窗口编程3.deps.json
+D:\C#Data\窗口编程3\窗口编程3\bin\Debug\netcoreapp3.1\窗口编程3.runtimeconfig.json
+D:\C#Data\窗口编程3\窗口编程3\bin\Debug\netcoreapp3.1\窗口编程3.runtimeconfig.dev.json
+D:\C#Data\窗口编程3\窗口编程3\bin\Debug\netcoreapp3.1\窗口编程3.dll
+D:\C#Data\窗口编程3\窗口编程3\bin\Debug\netcoreapp3.1\窗口编程3.pdb
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.csproj.AssemblyReference.cache
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.Form1.resources
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.csproj.GenerateResource.cache
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.AssemblyInfoInputs.cache
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.AssemblyInfo.cs
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.csproj.CoreCompileInputs.cache
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.dll
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.pdb
+D:\C#Data\窗口编程3\窗口编程3\obj\Debug\netcoreapp3.1\窗口编程3.genruntimeconfig.cache

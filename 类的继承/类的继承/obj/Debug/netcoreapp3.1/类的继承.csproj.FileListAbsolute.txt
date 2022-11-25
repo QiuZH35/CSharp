@@ -1,0 +1,14 @@
+D:\C#Data\类的继承\类的继承\obj\Debug\netcoreapp3.1\类的继承.csproj.AssemblyReference.cache
+D:\C#Data\类的继承\类的继承\obj\Debug\netcoreapp3.1\类的继承.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\类的继承\类的继承\obj\Debug\netcoreapp3.1\类的继承.AssemblyInfoInputs.cache
+D:\C#Data\类的继承\类的继承\obj\Debug\netcoreapp3.1\类的继承.AssemblyInfo.cs
+D:\C#Data\类的继承\类的继承\obj\Debug\netcoreapp3.1\类的继承.csproj.CoreCompileInputs.cache
+D:\C#Data\类的继承\类的继承\bin\Debug\netcoreapp3.1\类的继承.exe
+D:\C#Data\类的继承\类的继承\bin\Debug\netcoreapp3.1\类的继承.deps.json
+D:\C#Data\类的继承\类的继承\bin\Debug\netcoreapp3.1\类的继承.runtimeconfig.json
+D:\C#Data\类的继承\类的继承\bin\Debug\netcoreapp3.1\类的继承.runtimeconfig.dev.json
+D:\C#Data\类的继承\类的继承\bin\Debug\netcoreapp3.1\类的继承.dll
+D:\C#Data\类的继承\类的继承\bin\Debug\netcoreapp3.1\类的继承.pdb
+D:\C#Data\类的继承\类的继承\obj\Debug\netcoreapp3.1\类的继承.dll
+D:\C#Data\类的继承\类的继承\obj\Debug\netcoreapp3.1\类的继承.pdb
+D:\C#Data\类的继承\类的继承\obj\Debug\netcoreapp3.1\类的继承.genruntimeconfig.cache

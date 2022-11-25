@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="testModelStoreContainer" CdmEntityContainer="testEntities">
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="testModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="csharp" ColumnName="csharp" />
+          <ScalarProperty Name="java" ColumnName="java" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="student1">
+      <EntityTypeMapping TypeName="testModel.student1">
+        <MappingFragment StoreEntitySet="student1">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="csharp" ColumnName="csharp" />
+          <ScalarProperty Name="java" ColumnName="java" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="student2">
+      <EntityTypeMapping TypeName="testModel.student2">
+        <MappingFragment StoreEntitySet="student2">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="csharp" ColumnName="csharp" />
+          <ScalarProperty Name="java" ColumnName="java" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="student4">
+      <EntityTypeMapping TypeName="testModel.student4">
+        <MappingFragment StoreEntitySet="student4">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="csharp" ColumnName="csharp" />
+          <ScalarProperty Name="java" ColumnName="java" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="视图den">
+      <EntityTypeMapping TypeName="testModel.视图den">
+        <MappingFragment StoreEntitySet="视图den">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="csharp" ColumnName="csharp" />
+          <ScalarProperty Name="java" ColumnName="java" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

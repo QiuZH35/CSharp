@@ -1,0 +1,15 @@
+D:\C#Data\Fristtest\Fristtest\bin\Debug\net6.0\Fristtest.exe
+D:\C#Data\Fristtest\Fristtest\bin\Debug\net6.0\Fristtest.deps.json
+D:\C#Data\Fristtest\Fristtest\bin\Debug\net6.0\Fristtest.runtimeconfig.json
+D:\C#Data\Fristtest\Fristtest\bin\Debug\net6.0\Fristtest.dll
+D:\C#Data\Fristtest\Fristtest\bin\Debug\net6.0\ref\Fristtest.dll
+D:\C#Data\Fristtest\Fristtest\bin\Debug\net6.0\Fristtest.pdb
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\Fristtest.csproj.AssemblyReference.cache
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\Fristtest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\Fristtest.AssemblyInfoInputs.cache
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\Fristtest.AssemblyInfo.cs
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\Fristtest.csproj.CoreCompileInputs.cache
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\Fristtest.dll
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\ref\Fristtest.dll
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\Fristtest.pdb
+D:\C#Data\Fristtest\Fristtest\obj\Debug\net6.0\Fristtest.genruntimeconfig.cache

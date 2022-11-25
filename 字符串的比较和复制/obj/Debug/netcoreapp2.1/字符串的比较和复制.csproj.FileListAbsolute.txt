@@ -1,0 +1,11 @@
+D:\C#Data\字符串的比较和复制\bin\Debug\netcoreapp2.1\字符串的比较和复制.deps.json
+D:\C#Data\字符串的比较和复制\bin\Debug\netcoreapp2.1\字符串的比较和复制.runtimeconfig.json
+D:\C#Data\字符串的比较和复制\bin\Debug\netcoreapp2.1\字符串的比较和复制.runtimeconfig.dev.json
+D:\C#Data\字符串的比较和复制\bin\Debug\netcoreapp2.1\字符串的比较和复制.dll
+D:\C#Data\字符串的比较和复制\bin\Debug\netcoreapp2.1\字符串的比较和复制.pdb
+D:\C#Data\字符串的比较和复制\obj\Debug\netcoreapp2.1\字符串的比较和复制.csprojAssemblyReference.cache
+D:\C#Data\字符串的比较和复制\obj\Debug\netcoreapp2.1\字符串的比较和复制.csproj.CoreCompileInputs.cache
+D:\C#Data\字符串的比较和复制\obj\Debug\netcoreapp2.1\字符串的比较和复制.AssemblyInfoInputs.cache
+D:\C#Data\字符串的比较和复制\obj\Debug\netcoreapp2.1\字符串的比较和复制.AssemblyInfo.cs
+D:\C#Data\字符串的比较和复制\obj\Debug\netcoreapp2.1\字符串的比较和复制.dll
+D:\C#Data\字符串的比较和复制\obj\Debug\netcoreapp2.1\字符串的比较和复制.pdb

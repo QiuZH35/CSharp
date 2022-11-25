@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#Data\\类的继承\\类的继承\\类的继承.csproj": {}
+  },
+  "projects": {
+    "D:\\C#Data\\类的继承\\类的继承\\类的继承.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#Data\\类的继承\\类的继承\\类的继承.csproj",
+        "projectName": "类的继承",
+        "projectPath": "D:\\C#Data\\类的继承\\类的继承\\类的继承.csproj",
+        "packagesPath": "C:\\Users\\Mr.邱\\.nuget\\packages\\",
+        "outputPath": "D:\\C#Data\\类的继承\\类的继承\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\vs.2022 Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mr.邱\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

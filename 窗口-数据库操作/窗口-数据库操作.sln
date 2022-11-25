@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "窗口-数据库操作", "窗口-数据库操作\窗口-数据库操作.csproj", "{DDEFCA70-DE70-4E60-B2C8-D2C1B80C8045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEFCA70-DE70-4E60-B2C8-D2C1B80C8045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEFCA70-DE70-4E60-B2C8-D2C1B80C8045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEFCA70-DE70-4E60-B2C8-D2C1B80C8045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEFCA70-DE70-4E60-B2C8-D2C1B80C8045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E9947E-48DB-4080-9F04-9116B261EB6C}
+	EndGlobalSection
+EndGlobal

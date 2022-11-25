@@ -1,0 +1,14 @@
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\bin\Debug\netcoreapp3.1\数组及锯齿数组.exe
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\bin\Debug\netcoreapp3.1\数组及锯齿数组.deps.json
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\bin\Debug\netcoreapp3.1\数组及锯齿数组.runtimeconfig.json
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\bin\Debug\netcoreapp3.1\数组及锯齿数组.runtimeconfig.dev.json
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\bin\Debug\netcoreapp3.1\数组及锯齿数组.dll
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\bin\Debug\netcoreapp3.1\数组及锯齿数组.pdb
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\obj\Debug\netcoreapp3.1\数组及锯齿数组.csproj.AssemblyReference.cache
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\obj\Debug\netcoreapp3.1\数组及锯齿数组.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\obj\Debug\netcoreapp3.1\数组及锯齿数组.AssemblyInfoInputs.cache
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\obj\Debug\netcoreapp3.1\数组及锯齿数组.AssemblyInfo.cs
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\obj\Debug\netcoreapp3.1\数组及锯齿数组.csproj.CoreCompileInputs.cache
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\obj\Debug\netcoreapp3.1\数组及锯齿数组.dll
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\obj\Debug\netcoreapp3.1\数组及锯齿数组.pdb
+D:\C#Data\数组及锯齿数组\数组及锯齿数组\obj\Debug\netcoreapp3.1\数组及锯齿数组.genruntimeconfig.cache

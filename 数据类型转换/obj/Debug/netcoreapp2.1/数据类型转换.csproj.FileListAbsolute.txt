@@ -1,0 +1,11 @@
+D:\C#Data\数据类型转换\obj\Debug\netcoreapp2.1\数据类型转换.csprojAssemblyReference.cache
+D:\C#Data\数据类型转换\obj\Debug\netcoreapp2.1\数据类型转换.csproj.CoreCompileInputs.cache
+D:\C#Data\数据类型转换\obj\Debug\netcoreapp2.1\数据类型转换.AssemblyInfoInputs.cache
+D:\C#Data\数据类型转换\obj\Debug\netcoreapp2.1\数据类型转换.AssemblyInfo.cs
+D:\C#Data\数据类型转换\bin\Debug\netcoreapp2.1\数据类型转换.deps.json
+D:\C#Data\数据类型转换\bin\Debug\netcoreapp2.1\数据类型转换.runtimeconfig.json
+D:\C#Data\数据类型转换\bin\Debug\netcoreapp2.1\数据类型转换.runtimeconfig.dev.json
+D:\C#Data\数据类型转换\bin\Debug\netcoreapp2.1\数据类型转换.dll
+D:\C#Data\数据类型转换\bin\Debug\netcoreapp2.1\数据类型转换.pdb
+D:\C#Data\数据类型转换\obj\Debug\netcoreapp2.1\数据类型转换.dll
+D:\C#Data\数据类型转换\obj\Debug\netcoreapp2.1\数据类型转换.pdb

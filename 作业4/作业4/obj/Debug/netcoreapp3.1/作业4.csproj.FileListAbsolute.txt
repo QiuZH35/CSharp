@@ -1,0 +1,14 @@
+D:\C#Data\作业4\作业4\bin\Debug\netcoreapp3.1\作业4.exe
+D:\C#Data\作业4\作业4\bin\Debug\netcoreapp3.1\作业4.deps.json
+D:\C#Data\作业4\作业4\bin\Debug\netcoreapp3.1\作业4.runtimeconfig.json
+D:\C#Data\作业4\作业4\bin\Debug\netcoreapp3.1\作业4.runtimeconfig.dev.json
+D:\C#Data\作业4\作业4\bin\Debug\netcoreapp3.1\作业4.dll
+D:\C#Data\作业4\作业4\bin\Debug\netcoreapp3.1\作业4.pdb
+D:\C#Data\作业4\作业4\obj\Debug\netcoreapp3.1\作业4.csproj.AssemblyReference.cache
+D:\C#Data\作业4\作业4\obj\Debug\netcoreapp3.1\作业4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\作业4\作业4\obj\Debug\netcoreapp3.1\作业4.AssemblyInfoInputs.cache
+D:\C#Data\作业4\作业4\obj\Debug\netcoreapp3.1\作业4.AssemblyInfo.cs
+D:\C#Data\作业4\作业4\obj\Debug\netcoreapp3.1\作业4.csproj.CoreCompileInputs.cache
+D:\C#Data\作业4\作业4\obj\Debug\netcoreapp3.1\作业4.dll
+D:\C#Data\作业4\作业4\obj\Debug\netcoreapp3.1\作业4.pdb
+D:\C#Data\作业4\作业4\obj\Debug\netcoreapp3.1\作业4.genruntimeconfig.cache

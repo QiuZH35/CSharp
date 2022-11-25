@@ -1,0 +1,16 @@
+D:\C#Data\调查问卷\调查问卷\bin\Debug\netcoreapp3.1\调查问卷.exe
+D:\C#Data\调查问卷\调查问卷\bin\Debug\netcoreapp3.1\调查问卷.deps.json
+D:\C#Data\调查问卷\调查问卷\bin\Debug\netcoreapp3.1\调查问卷.runtimeconfig.json
+D:\C#Data\调查问卷\调查问卷\bin\Debug\netcoreapp3.1\调查问卷.runtimeconfig.dev.json
+D:\C#Data\调查问卷\调查问卷\bin\Debug\netcoreapp3.1\调查问卷.dll
+D:\C#Data\调查问卷\调查问卷\bin\Debug\netcoreapp3.1\调查问卷.pdb
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.csproj.AssemblyReference.cache
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.调查.resources
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.csproj.GenerateResource.cache
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.AssemblyInfoInputs.cache
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.AssemblyInfo.cs
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.csproj.CoreCompileInputs.cache
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.dll
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.pdb
+D:\C#Data\调查问卷\调查问卷\obj\Debug\netcoreapp3.1\调查问卷.genruntimeconfig.cache

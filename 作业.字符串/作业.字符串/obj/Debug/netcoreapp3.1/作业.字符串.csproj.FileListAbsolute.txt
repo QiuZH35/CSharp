@@ -1,0 +1,14 @@
+D:\C#Data\作业.字符串\作业.字符串\bin\Debug\netcoreapp3.1\作业.字符串.exe
+D:\C#Data\作业.字符串\作业.字符串\bin\Debug\netcoreapp3.1\作业.字符串.deps.json
+D:\C#Data\作业.字符串\作业.字符串\bin\Debug\netcoreapp3.1\作业.字符串.runtimeconfig.json
+D:\C#Data\作业.字符串\作业.字符串\bin\Debug\netcoreapp3.1\作业.字符串.runtimeconfig.dev.json
+D:\C#Data\作业.字符串\作业.字符串\bin\Debug\netcoreapp3.1\作业.字符串.dll
+D:\C#Data\作业.字符串\作业.字符串\bin\Debug\netcoreapp3.1\作业.字符串.pdb
+D:\C#Data\作业.字符串\作业.字符串\obj\Debug\netcoreapp3.1\作业.字符串.csproj.AssemblyReference.cache
+D:\C#Data\作业.字符串\作业.字符串\obj\Debug\netcoreapp3.1\作业.字符串.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\作业.字符串\作业.字符串\obj\Debug\netcoreapp3.1\作业.字符串.AssemblyInfoInputs.cache
+D:\C#Data\作业.字符串\作业.字符串\obj\Debug\netcoreapp3.1\作业.字符串.AssemblyInfo.cs
+D:\C#Data\作业.字符串\作业.字符串\obj\Debug\netcoreapp3.1\作业.字符串.csproj.CoreCompileInputs.cache
+D:\C#Data\作业.字符串\作业.字符串\obj\Debug\netcoreapp3.1\作业.字符串.dll
+D:\C#Data\作业.字符串\作业.字符串\obj\Debug\netcoreapp3.1\作业.字符串.pdb
+D:\C#Data\作业.字符串\作业.字符串\obj\Debug\netcoreapp3.1\作业.字符串.genruntimeconfig.cache

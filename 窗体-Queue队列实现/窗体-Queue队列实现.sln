@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "窗体-Queue队列实现", "窗体-Queue队列实现\窗体-Queue队列实现.csproj", "{39E7AC6D-D898-404F-9BFD-8F2017F3BC67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{AF17055A-DF70-486E-B881-E0194CA60EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E7AC6D-D898-404F-9BFD-8F2017F3BC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E7AC6D-D898-404F-9BFD-8F2017F3BC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E7AC6D-D898-404F-9BFD-8F2017F3BC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E7AC6D-D898-404F-9BFD-8F2017F3BC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF17055A-DF70-486E-B881-E0194CA60EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF17055A-DF70-486E-B881-E0194CA60EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF17055A-DF70-486E-B881-E0194CA60EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF17055A-DF70-486E-B881-E0194CA60EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {377CF091-20BC-4DD7-92BC-F1D6652C2801}
+	EndGlobalSection
+EndGlobal

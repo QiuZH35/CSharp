@@ -1,0 +1,11 @@
+D:\C#Data\Stringarray\bin\Debug\netcoreapp2.1\Stringarray.deps.json
+D:\C#Data\Stringarray\bin\Debug\netcoreapp2.1\Stringarray.runtimeconfig.json
+D:\C#Data\Stringarray\bin\Debug\netcoreapp2.1\Stringarray.runtimeconfig.dev.json
+D:\C#Data\Stringarray\bin\Debug\netcoreapp2.1\Stringarray.dll
+D:\C#Data\Stringarray\bin\Debug\netcoreapp2.1\Stringarray.pdb
+D:\C#Data\Stringarray\obj\Debug\netcoreapp2.1\Stringarray.csprojAssemblyReference.cache
+D:\C#Data\Stringarray\obj\Debug\netcoreapp2.1\Stringarray.csproj.CoreCompileInputs.cache
+D:\C#Data\Stringarray\obj\Debug\netcoreapp2.1\Stringarray.AssemblyInfoInputs.cache
+D:\C#Data\Stringarray\obj\Debug\netcoreapp2.1\Stringarray.AssemblyInfo.cs
+D:\C#Data\Stringarray\obj\Debug\netcoreapp2.1\Stringarray.dll
+D:\C#Data\Stringarray\obj\Debug\netcoreapp2.1\Stringarray.pdb

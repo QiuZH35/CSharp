@@ -1,0 +1,11 @@
+D:\C#Data\作业2\bin\Debug\netcoreapp2.1\作业2.deps.json
+D:\C#Data\作业2\bin\Debug\netcoreapp2.1\作业2.runtimeconfig.json
+D:\C#Data\作业2\bin\Debug\netcoreapp2.1\作业2.runtimeconfig.dev.json
+D:\C#Data\作业2\bin\Debug\netcoreapp2.1\作业2.dll
+D:\C#Data\作业2\bin\Debug\netcoreapp2.1\作业2.pdb
+D:\C#Data\作业2\obj\Debug\netcoreapp2.1\作业2.csproj.CoreCompileInputs.cache
+D:\C#Data\作业2\obj\Debug\netcoreapp2.1\作业2.AssemblyInfoInputs.cache
+D:\C#Data\作业2\obj\Debug\netcoreapp2.1\作业2.AssemblyInfo.cs
+D:\C#Data\作业2\obj\Debug\netcoreapp2.1\作业2.dll
+D:\C#Data\作业2\obj\Debug\netcoreapp2.1\作业2.pdb
+D:\C#Data\作业2\obj\Debug\netcoreapp2.1\作业2.csprojAssemblyReference.cache

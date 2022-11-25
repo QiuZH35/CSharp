@@ -1,0 +1,14 @@
+D:\C#Data\ArrayList数组\ArrayList数组\obj\Debug\netcoreapp3.1\ArrayList数组.csproj.AssemblyReference.cache
+D:\C#Data\ArrayList数组\ArrayList数组\obj\Debug\netcoreapp3.1\ArrayList数组.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Data\ArrayList数组\ArrayList数组\obj\Debug\netcoreapp3.1\ArrayList数组.AssemblyInfoInputs.cache
+D:\C#Data\ArrayList数组\ArrayList数组\obj\Debug\netcoreapp3.1\ArrayList数组.AssemblyInfo.cs
+D:\C#Data\ArrayList数组\ArrayList数组\obj\Debug\netcoreapp3.1\ArrayList数组.csproj.CoreCompileInputs.cache
+D:\C#Data\ArrayList数组\ArrayList数组\bin\Debug\netcoreapp3.1\ArrayList数组.exe
+D:\C#Data\ArrayList数组\ArrayList数组\bin\Debug\netcoreapp3.1\ArrayList数组.deps.json
+D:\C#Data\ArrayList数组\ArrayList数组\bin\Debug\netcoreapp3.1\ArrayList数组.runtimeconfig.json
+D:\C#Data\ArrayList数组\ArrayList数组\bin\Debug\netcoreapp3.1\ArrayList数组.runtimeconfig.dev.json
+D:\C#Data\ArrayList数组\ArrayList数组\bin\Debug\netcoreapp3.1\ArrayList数组.dll
+D:\C#Data\ArrayList数组\ArrayList数组\bin\Debug\netcoreapp3.1\ArrayList数组.pdb
+D:\C#Data\ArrayList数组\ArrayList数组\obj\Debug\netcoreapp3.1\ArrayList数组.dll
+D:\C#Data\ArrayList数组\ArrayList数组\obj\Debug\netcoreapp3.1\ArrayList数组.pdb
+D:\C#Data\ArrayList数组\ArrayList数组\obj\Debug\netcoreapp3.1\ArrayList数组.genruntimeconfig.cache

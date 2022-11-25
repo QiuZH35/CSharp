@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqdJcuhiZhy0N63eQuK1WnlrsUPtfXKV17125hJ5KpNow7rj7mcXr+dWEoKDn1giVniTNW6NDHEl3B8mp+nigg==",
+  "success": true,
+  "projectFilePath": "D:\\C#Data\\窗体-Queue队列实现\\窗体-Queue队列实现\\窗体-Queue队列实现.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dear_Qiu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Dear_Qiu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Dear_Qiu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dear_Qiu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
